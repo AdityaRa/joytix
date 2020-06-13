@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535371866915",
+    "firebase_url": "https://joy-tix.firebaseio.com",
+    "project_id": "joy-tix",
+    "storage_bucket": "joy-tix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535371866915:android:a3b956e259e78e98efa296",
+        "android_client_info": {
+          "package_name": "com.example.joytix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535371866915-i18fbjb816iibe9vt0ufbiujrlkq8uq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNvKhlz0SfMU_u3iJlN1yTU3KITgNi764"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535371866915-i18fbjb816iibe9vt0ufbiujrlkq8uq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
